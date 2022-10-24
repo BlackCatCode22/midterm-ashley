@@ -11,7 +11,7 @@ handle = open(nameOfFile)
 # on our function's directions.
 count = 0
 
-# The handle came from the variable we used above to access our external file called mbox-short.txt
+# The handle came from the variable we used above to access our external file called listOfEmailsSent.txt
 # (which is the relative file path). It is easier to type that variable name than to re-type the file name every time we
 # need to access it for information. You can technically make the variable whatever you want it to be, but it should be
 # recognizable in case you have to share your code or work with others on it. The handle is the file handler
